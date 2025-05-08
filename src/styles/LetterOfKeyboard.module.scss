@@ -1,0 +1,11 @@
+.letter {
+    background-color: rgb(68, 68, 68);
+    padding: 10px;
+    margin: 5px;
+    border-radius: 10px;
+    border: 1px solid black;
+    transition: all .2 s;
+    &:hover {
+    background-color: rgb(56, 56, 56);
+    }
+}
